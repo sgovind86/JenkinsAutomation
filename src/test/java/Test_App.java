@@ -7,4 +7,9 @@ public class Test_App {
         System.out.println("Test case 1");
     }
 
+    @Test
+    public void test_app1(){
+        System.out.println("Test case 2");
+    }
+
 }
